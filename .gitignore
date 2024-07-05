@@ -1,0 +1,85 @@
+# Build folders (you can keep bin if you'd like to check those in)
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+.BIN/
+
+# VS Code directories
+.vscode/
+
+# Visual Studio 2019
+.vs/
+
+# Node Modules
+node_modules/
+
+# Log files
+*.log
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Other
+*.pyc
+*.pyo
+*.tmp
+
+# Test binary, build, and coverage folders
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esult[s]/
+[Tt]ests/
+[Ll]ogs/
+
+# Visual Studio stuff
+.vscode/
+*.code-workspace
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.exe
+*.dll
+*.log
+*.vspscc
+*.vssscc
+TestResults/
+debug/
+release/
+x64/
+ipch/
+*.VC.db
